@@ -1,0 +1,52 @@
+* {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+* {
+    margin: 0px 25px;
+}
+
+/* banner-section */
+.banner-section {
+    width: 1600px;
+    height: 808px;
+}
+
+.banner-image {
+    position: absolute;
+}
+
+.banner-info {
+    position: relative;
+    padding: 30px 30px 40px 1000px;
+    text-align: right;
+}
+
+.banner-title {
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700;
+    padding-top: 186px;
+}
+
+.banner-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-top: 26px;
+    padding-bottom: 32px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #F15B22;
+    border-style: none;
+    color: #FFFFFF;
+    padding: 21px 25px 20px 26px;
+    font-size: 20px;
+    font-weight: 600;
+}
